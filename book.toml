@@ -1,0 +1,13 @@
+[book]
+authors = ["Shigeyuki"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "Anki情報まとめ by Shigeyuki"
+
+[output.html]
+git-repository-url = "https://forms.gle/jbnPepH378mVb2Sz5"
+git-repository-icon = "fa-envelope"
+
+[output.html.print]
+enable = false
