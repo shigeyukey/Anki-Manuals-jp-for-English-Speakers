@@ -1,6 +1,7 @@
-# 目次
+# Table of Contents
 
-- [はじめに](intro.md)
-- [Anki日本語版マニュアルまとめ](anki_manuals_jp.md)
-- [誤訳を報告する](github_link.md)
-- [更新履歴](change_log.md)
+- [Introduction](intro.md)
+- [Summary of Anki Japanese Manuals](anki_manuals_jp.md)
+- [Report Mistranslations](github_link.md)
+- [Change Log](change_log.md)
+
