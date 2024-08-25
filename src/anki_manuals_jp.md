@@ -1,4 +1,6 @@
-Table of Contents:
+
+Table of Contents  
+
 - [Summary of Anki Japanese Manuals](#summary-of-anki-japanese-manuals)
 - [Other Anki-related Sites](#other-anki-related-sites)
 - [Ask Questions about Anki](#ask-questions-about-anki)
